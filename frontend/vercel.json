@@ -1,0 +1,1 @@
+{"rewrites":[{"source":"/api/:path*","destination":"https://quiz-pocket-ckae.onrender.com/api/:path*"},{"source":"/((?!api/).*)","destination":"/index.html"}]}
